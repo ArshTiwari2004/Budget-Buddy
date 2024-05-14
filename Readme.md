@@ -21,3 +21,5 @@ To test this project run
 ```bash
   npm run dev
 ```
+#### License
+[MIT](https://choosealicense.com/licenses/mit/)
