@@ -1,5 +1,8 @@
 # CODE CUBICLE HACKATHON 
 
+![Example Image](C:\Users\Arsh tiwari\OneDrive\Desktop\Code Cubicle\Money-Mentor\public\codecubicle.png)
+
+
 ## Team - Hola Amigo
 
 ### Theme : FinTech
