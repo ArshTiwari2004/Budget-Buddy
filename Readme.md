@@ -1,6 +1,6 @@
 # CODE CUBICLE HACKATHON 
 
-![Example Image](Money-Mentor\public\codecubicle.png)
+![Example Image](Money-Mentor\public\codecubicle.jpg)
 
 
 ## Team - Hola Amigo
