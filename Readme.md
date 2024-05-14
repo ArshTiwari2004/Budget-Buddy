@@ -1,5 +1,8 @@
 # CODE CUBICLE HACKATHON 
 
+![Example Image](Money-Mentor\public\codecubicle.png)
+
+
 ## Team - Hola Amigo
 
 ### Theme : FinTech
