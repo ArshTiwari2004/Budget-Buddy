@@ -1,6 +1,6 @@
 # CODE CUBICLE HACKATHON 
 
-![Example Image](Money-Mentor\public\codecubicle.jpg)
+![Example Image]([Money-Mentor\public\codecubicle.jpg](https://github.com/ArshTiwari2004/CodeCubicle/blob/48c8482b3b55ce4e096c21773499fa817aafb909/Money-Mentor/public/codecubicle.jpg))
 
 
 ## Team - Hola Amigo
