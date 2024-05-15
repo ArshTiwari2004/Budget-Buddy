@@ -1,35 +1,25 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Firstpage from './components/Firstpage'; 
+import Aboutus from './components/Aboutus';
+import Dashboard from './components/Dashboard';
+import DayScholarTemplate from './components/DayScholartemplate';
+// Import your Firstpage component
 
-function App() {
-  const [count, setCount] = useState(0)
-
+const App = () => {
   return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
-}
+    <Router>
+      <Routes>
+        {/* Define routes for each page/component */}
+        <Route path="/" element={<Firstpage />} /> {/* Route for Firstpage component */}
+        <Route path="/about-us" element={<Aboutus />} />
+        <Route path="/dashboard" element={<Dashboard />} /> {/* Route for Dashboard component */}
+        <Route path="/dayscholartemplate" element={<DayScholarTemplate />} /> {/* Route for DayScholarTemplate component */}
 
-export default App
+        {/* You can add more routes here as needed */}
+      </Routes>
+    </Router>
+  );
+};
+
+export default App;
