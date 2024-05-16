@@ -22,7 +22,8 @@ Design an inclusive FinTech solution that empowers them to manage their money ef
 
 ### What we have built?
 
-## Budget Buddy
+# Budget Buddy - EMPOWER YOUR FINANCES, SIMPLIFY YOUR LIFE
+
 
 
 ![Logo](./Money-Mentor/public/logo.jpeg)
