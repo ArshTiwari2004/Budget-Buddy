@@ -50,8 +50,6 @@ Our solution aims to tackle the common challenge faced by young adults: managing
 
   <img src="./Money-Mentor/public/website3.png" width=600 height=300>
 
-  <img src="./Money-Mentor/public/website4.png" width=600 height=300>
-
 
 
 
