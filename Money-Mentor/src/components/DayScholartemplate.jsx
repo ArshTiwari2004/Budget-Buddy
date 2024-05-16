@@ -15,7 +15,7 @@ const DayScholarTemplate = () => {
   ];
 
   return (
-    <div className="bg-white p-6 rounded-lg shadow-md">
+    <div className="bg-purple-200 p-6 rounded-lg shadow-md">
       <h2 className="text-2xl font-bold mb-4">Day Scholar Essentials</h2>
       <table className="min-w-full divide-y divide-gray-200">
         <thead className="bg-gray-50">
