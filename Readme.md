@@ -5,6 +5,12 @@
 
 ## Team - Hola Amigo
 
+## Team Members :
+1. Arsh Tiwari
+2. Nibedan Pati 
+3. Utsav Jana
+4. Srijan Gupta 
+
 ### Theme : FinTech
 
 ### Problem Statement :  Money Management for Young Adults
