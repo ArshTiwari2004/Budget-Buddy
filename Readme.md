@@ -24,6 +24,9 @@ Design an inclusive FinTech solution that empowers them to manage their money ef
 
 ## Budget Buddy
 
+
+![Logo](./Money-Mentor/public/logo.jpeg)
+
 Our solution aims to tackle the common challenge faced by young adults: managing finances confidently. Through our user-friendly website, we provide templates to track spending in various categories like travel and rent etc. Users set monthly budgets and allocate funds accordingly.  By addressing this gap in financial guidance, we empower young adults to navigate their financial futures with ease, building a secure foundation for themselves.
 
 
