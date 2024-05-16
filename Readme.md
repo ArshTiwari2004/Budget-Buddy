@@ -8,10 +8,10 @@
 ## Team - Hola Amigo
 
 ## Team Members :
-1. Arsh Tiwari
-2. Nibedan Pati 
-3. Utsav Jana
-4. Srijan Gupta 
+1. Arsh Tiwari (Frontend and Backend)
+2. Nibedan Pati (Frontend and Backend)
+3. Utsav Jana (Speaker and Presentation)
+4. Srijan Gupta (UI/UX design) 
 
 ### Theme : FinTech
 
@@ -71,12 +71,19 @@ This is a web application for now  built using the following technologies:
 
 
 
-## Local Host Testing
-
-To test this project run
-
-```bash
-  npm run dev
+## Testing
+1. Clone this repository
 ```
+git clone https://github.com/ArshTiwari2004/CodeCubicle
+```
+2. Install node dependencies
+```
+cd Money-Mentor && npm install
+```
+3. Run the server
+```
+npm run dev
+```
+
 #### License
 [MIT](https://choosealicense.com/licenses/mit/)
