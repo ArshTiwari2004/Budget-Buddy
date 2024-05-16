@@ -42,6 +42,23 @@ Our solution aims to tackle the common challenge faced by young adults: managing
 
 - Transparent transactions making the user conscious about spending money
 
+### Tech Stack
+This is a web application for now  built using the following technologies:
+1. React 
+2. React DOM 
+3. TailwindCSS 
+4. Google's Firebase (for backend)
+5. Expo Router (for routing)
+6. Node JS 
+7. Javascript
+8. Firestore Database ( switch to MongoDB at later stage for scalibility issues) 
+9. Figma ( for wireframing and designing )
+10. Vercel / Stellar blockchain ( for deployment)
+    
+
+
+
+
 ## Some snippets of Budget Buddy:
 
   <img src="./Money-Mentor/public/website1.png" width=600 height=300>  
