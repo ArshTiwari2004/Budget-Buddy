@@ -39,7 +39,13 @@ Our solution aims to tackle the common challenge faced by young adults: managing
 
 ## Some snippets of Budget Buddy:
 
-<img src="./Money-Mentor/public/website1.png" width=600 height=600>   <img src="./Money-Mentor/public/website2.png" width=600 height=600>
+  <img src="./Money-Mentor/public/website1.png" width=600 height=300>  
+
+  <img src="./Money-Mentor/public/website2.png" width=600 height=300>
+
+  <img src="./Money-Mentor/public/website3.png" width=600 height=300>
+
+  <img src="./Money-Mentor/public/website4.png" width=600 height=300>
 
 
 
