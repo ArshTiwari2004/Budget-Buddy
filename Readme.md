@@ -1,26 +1,9 @@
-# CODE CUBICLE HACKATHON 
-
-## 15-19 May | Geek Room
-
-[Example Image](./Money-Mentor/public/codecubicle.jpg)
-
-
-## Team - Hola Amigo
-
-## Team Members :
-1. Arsh Tiwari (Frontend and Backend)
-2. Nibedan Pati (Frontend and Backend)
-3. Utsav Jana (Speaker and Presentation)
-4. Srijan Gupta (UI/UX design) 
-
-### Theme : FinTech
-
 ### Problem Statement :  Money Management for Young Adults
 
 Young adults (aged 18-25) are financially savvy but lack the tools and guidance to confidently navigate their financial futures.
 Design an inclusive FinTech solution that empowers them to manage their money effectively and build a secure financial foundation.
 
-### What we have built?
+### Solution?
 
 # Budget Buddy 
 ## Empower your finances , simplify your life
