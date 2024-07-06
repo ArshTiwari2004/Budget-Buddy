@@ -2,7 +2,7 @@
 
 ## 15-19 May | Geek Room
 
-![Example Image](./Money-Mentor/public/codecubicle.jpg)
+[Example Image](./Money-Mentor/public/codecubicle.jpg)
 
 
 ## Team - Hola Amigo
